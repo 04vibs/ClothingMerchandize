@@ -1,0 +1,18 @@
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.deps.json
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.runtimeconfig.json
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.runtimeconfig.dev.json
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.csprojResolveAssemblyReference.cache
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.AssemblyInfo.cs
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.dll
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.pdb
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.dll
+C:\Users\prashantpuri\documents\visual studio 2017\Projects\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.pdb
+C:\Users\prashantpuri\Desktop\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.deps.json
+C:\Users\prashantpuri\Desktop\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.runtimeconfig.json
+C:\Users\prashantpuri\Desktop\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.runtimeconfig.dev.json
+C:\Users\prashantpuri\Desktop\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.dll
+C:\Users\prashantpuri\Desktop\clothing\clothing\bin\Debug\netcoreapp1.1\clothing.pdb
+C:\Users\prashantpuri\Desktop\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.csprojResolveAssemblyReference.cache
+C:\Users\prashantpuri\Desktop\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.AssemblyInfo.cs
+C:\Users\prashantpuri\Desktop\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.dll
+C:\Users\prashantpuri\Desktop\clothing\clothing\obj\Debug\netcoreapp1.1\clothing.pdb
